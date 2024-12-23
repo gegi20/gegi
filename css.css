@@ -62,3 +62,21 @@ p {
     border-bottom: 1px solid gray;
 
 }
+.f4{
+border: 2px solid white;
+border-radius: 100px;
+margin-top: 20px;
+}
+.f5{
+    display: flex;
+   gap: 30px;
+}
+.p3{
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.span1{
+    color: white;
+    margin-left: 5px;
+}
